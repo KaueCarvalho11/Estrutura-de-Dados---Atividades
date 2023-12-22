@@ -2,7 +2,6 @@
 #include<stdlib.h>
 
 struct funcionario {
-	
 	char nome[50];
 	int idade;
 	char email [50];
