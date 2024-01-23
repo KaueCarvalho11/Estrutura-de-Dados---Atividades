@@ -1,0 +1,4 @@
+Struct: Todas as variáveis são armazenadas na memória.
+
+Union: Independente da quantidade de variáveis, apenas uma será armazenada na memória
+Também é uma estrutura de dados, porém, ocupa menos espaço de memória
